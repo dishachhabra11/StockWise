@@ -1,6 +1,6 @@
 # Trading System - Real-time Stock Data & Analysis Platform
-## Video Explanation 
-https://drive.google.com/file/d/1I5DEs_9H90sV0GnwdVqSiKOuEUuCh8CV/view?usp=sharing
+
+
 ## Project Overview
 
 This project implements a comprehensive trading system that processes real-time stock data, manages trades through a REST API, integrates with AWS cloud services for data analysis, and includes algorithmic trading simulation capabilities. The system is built using Django and follows modern software development practices to create a scalable and reliable platform for financial technology applications.
@@ -250,4 +250,5 @@ curl -X POST http://localhost:8000/api/trades/ \
 ---
 
 Built with ❤️ using Django, Channels, AWS, and a passion for fintech innovation.
+
 
